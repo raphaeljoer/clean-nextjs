@@ -2,3 +2,4 @@
 **/*.hbs
 node_modules
 build
+coverage
